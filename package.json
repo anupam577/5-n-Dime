@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DynamicGreedy/five-n-dime.git"
+    "url": "https://github.com/anupam577/5-n-Dime"
   },
   "author": "\"minions\"",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DynamicGreedy/five-n-dime/issues"
+    "url": "https://github.com/anupam577/5-n-Dime"
   },
-  "homepage": "https://github.com/DynamicGreedy/five-n-dime#readme",
+  "homepage": "https://github.com/anupam577/5-n-Dime",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
